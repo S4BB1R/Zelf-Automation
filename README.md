@@ -52,25 +52,3 @@ If you prefer to run the tests in headless mode (without a browser UI), simply u
 ```bash
 npx playwright test
 ```
-
-## Contributing
-
-If you'd like to contribute to this project, please open an issue or submit a pull request. Your contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Troubleshooting
-
-If you encounter any issues, please check the following:
-
-- Ensure you have the correct version of Node.js and npm installed.
-- Verify that your `.env` file is correctly formatted and located in the root directory.
-- Consult the Playwright documentation for further information and troubleshooting tips.
-
-For additional help, feel free to open an issue in this repository.
-
----
-
-Happy testing! 🎉
