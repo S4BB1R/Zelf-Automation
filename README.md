@@ -47,6 +47,11 @@ This will launch the Playwright Test Runner in UI mode, allowing you to visualiz
 
 ## Running Tests Headlessly
 
+
+Reported bug for manual TEST :
+https://docs.google.com/spreadsheets/d/1uPHd3303TG0iz7EyR6uNC0RVGOOFmEfbkSexBCDEHh8/edit?usp=sharing  
+
+
 If you prefer to run the tests in headless mode (without a browser UI), simply use:
 
 ```bash
